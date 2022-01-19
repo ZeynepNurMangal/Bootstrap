@@ -1,0 +1,28 @@
+body {
+    background-color: #E9ECEF;
+}
+
+.bg-cover {
+    background-attachment: static;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tours-li {
+    list-style-type: none;
+}
+
+.card-img-top {
+    width: 362px;
+    height: 200px;
+}
+
+.card {
+    width: 724px;
+    height: 400px;
+}
+
+.contact-info a {
+    color: black;
+}
